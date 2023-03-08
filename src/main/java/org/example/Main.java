@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        int id = 0;
+        int id = new NewClass(5).getId();
         System.out.println(id);
     }
 
