@@ -16,6 +16,6 @@ public class Main {
     }
 
     public static int intFunc() {
-        return 1;
+        return 2;
     }
 }
