@@ -14,4 +14,8 @@ public class Main {
         System.out.println("first");
         System.out.println("second");
     }
+
+    public static int intFunc() {
+        return 2;
+    }
 }
