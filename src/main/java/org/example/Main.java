@@ -9,4 +9,8 @@ public class Main {
     public static void doSome1() {
         System.out.println("Doing something");
     }
+
+    public static void some2() {
+        System.out.println("first");
+    }
 }
